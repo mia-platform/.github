@@ -46,7 +46,7 @@ And of course, as every tech company on the planet...
 
 ## We are hiring! 👩‍💻👨‍💻
 
-[See our open positions](https://mia-platform.eu/company/careers/) and apply now. # .github
+[See our open positions](https://mia-platform.eu/company/careers/) and apply now.
 
 
 
