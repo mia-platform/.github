@@ -1,7 +1,5 @@
-![Mia logo](./img/mia-platform_logo_white.png#gh-dark-mode-only)
-![Mia logo](./img/mia-platform_logo_color.png#gh-light-mode-only)
-
-# Mia-Platform
+![Mia logo](https://raw.githubusercontent.com/mia-platform/.github/master/profile/img/mia-platform_logo_white.png#gh-dark-mode-only)
+![Mia logo](https://raw.githubusercontent.com/mia-platform/.github/master/profile/img/mia-platform_logo_color.png#gh-light-mode-only)
 
 _🚀 Don’t waste time to set up your platform, just push the code!_
 
