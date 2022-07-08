@@ -25,6 +25,7 @@ We believe in the open source community, we think it is important to give back a
 
 * [micro-lc](https://github.com/micro-lc): a micro-frontend orchestrator;
 * [kube-green](https://github.com/kube-green): a k8s operator that helps you reduce CO2 emissions while saving energy and money;
+* [rönd](https://github.com/rond-authz): an open source RBAC solution to manage authorization on custom applications;
 * [Mia-Platform Marketplace](https://github.com/mia-platform-marketplace): our marketplace central registry.
 
 As adopters of Kubernetes, we endorse this technology through events, meetups, and content. That’s why we are among the co-organizers, together with the top players in the Italian K8s landscape, of the Kubernetes Community Days.
