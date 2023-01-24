@@ -14,7 +14,7 @@ We brought to the market the first solution for the end-to-end creation of cloud
 
 Our platform is a Developer Hub to manage the end-to-end life cycle of cloud native applications and simplify the life of Dev and Ops. We also provide a marketplace full of plug-n-play components to accelerate the construction of your own digital platform.
 
-If you want to learn more on Mia-Platform’s technology and how to use it, take a look at the [official documentation](https://docs.mia-platform.eu/) or discover our [Academy & Certification Program](https://mia-platform.eu/services/academy/).
+If you want to learn more on Mia-Platform technology and how to use it, take a look at the [official documentation](https://docs.mia-platform.eu/), discover our [Academy & Certification Program](https://mia-platform.eu/services/academy/) or simply join the [Community](https://github.com/mia-platform/community/discussions/).
 
 
 ## Open Source 💻😎
@@ -48,7 +48,7 @@ And of course, as every tech company on the planet...
 
 ## We are hiring! 👩‍💻👨‍💻
 
-[See our open positions](https://mia-platform.eu/company/careers/) and apply now.
+[Check out our open positions](https://mia-platform.eu/company/careers/) and apply now.
 
 
 
