@@ -22,7 +22,7 @@ If you want to learn more on Mia-Platform technology and how to use it, take a l
 We believe in the open source community, we think it is important to give back and for this reason we have always supported the [CNCF](https://www.cncf.io/). Check out our open source projects.
 
 
-
+* [MongoDB CRUD Service](https://github.com/mia-platform/crud-service): a lightweight application that exposes an HTTP Interface to perform CRUD operations on MongoDB collections;
 * [micro-lc](https://github.com/micro-lc): a micro-frontend orchestrator;
 * [kube-green](https://github.com/kube-green): a k8s operator that helps you reduce CO2 emissions while saving energy and money;
 * [Rönd](https://github.com/rond-authz): an open source RBAC solution to manage authorization on custom applications;
