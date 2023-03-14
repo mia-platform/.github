@@ -40,7 +40,7 @@ As adopters of Kubernetes, we endorse this technology through events, meetups, a
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/mia-platform)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/miaplatform)
 [![Documentation](https://img.shields.io/badge/Documentation-%2326A570.svg?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.mia-platform.eu/)
-[![Documentation](https://img.shields.io/badge/Technical_Blog-%23F1883F.svg?style=for-the-badge&logo=readthedocs&logoColor=white)](https://blog.mia-platform.eu/en)
+[![Technical Blog](https://img.shields.io/badge/Technical_Blog-%23F1883F.svg?style=for-the-badge&logo=readthedocs&logoColor=white)](https://blog.mia-platform.eu/en)
 
   
 
