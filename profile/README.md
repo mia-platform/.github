@@ -48,7 +48,7 @@ And of course, as every tech company on the planet...
 
 ## We are hiring! 👩‍💻👨‍💻
 
-[Check out our open positions](https://mia-platform.eu/company/careers/) and apply now.
+[Check out our open positions](https://mia-platform.eu/careers/) and apply now.
 
 
 
